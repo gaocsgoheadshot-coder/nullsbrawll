@@ -1,1 +1,13 @@
-
+{
+  "name": "Matas Repo",
+  "apps": [
+    {
+      "name": "Nulls Brawl",
+      "bundleIdentifier": "com.nulls.brawl",
+      "version": "1.0",
+      "url": "https://nulls.ee/nb_ipa",
+      "icon": "https://nulls.ee/assets/images/logo.png",
+      "description": "Nulls Brawl iPA"
+    }
+  ]
+}
